@@ -4,7 +4,8 @@
 
 ## Certification
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a76b70d5-d6c9-456e-9488-edbb578afdc2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-cloud-practitioner](https://github.com/armando-nyt/armando-nyt/assets/85895085/d212922e-9a81-4da5-9313-a2f3b47bba1e)
+
 <!--
 **armando-nyt/armando-nyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
