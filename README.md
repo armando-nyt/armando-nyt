@@ -4,7 +4,8 @@
 
 ## Certification
 
-<img src="https://private-user-images.githubusercontent.com/85895085/343179058-d212922e-9a81-4da5-9313-a2f3b47bba1e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0MDkxMDEsIm5iZiI6MTcxOTQwODgwMSwicGF0aCI6Ii84NTg5NTA4NS8zNDMxNzkwNTgtZDIxMjkyMmUtOWE4MS00ZGE1LTkzMTMtYTJmM2I0N2JiYTFlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI2VDEzMzMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlNzVhNGQ5MjZlOTlhOTk0NDU3NTI4MjdlMDE4ZGUwMzBhNmNjMGU1MzBmN2M0ZmEyNDYyM2Y1MmEzMDEwOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PHR3Me3_YSI4HHyYmcj3tCC2iUuS9vOvqzNqhcgFcVg" alt="aws-certified-cloud-practitioner" width="75px">
+<img src="https://github.com/armando-nyt/armando-nyt/assets/85895085/ce960051-d6f6-4623-9174-1bb79e70d878" width="80px" title="cloud practitioner badge"/>
+
 
 <!--
 **armando-nyt/armando-nyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
